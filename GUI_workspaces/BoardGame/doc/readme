@@ -1,0 +1,22 @@
+This is a test GUI project created for Katherine, it is not complete finished. 
+
+The game name is "Trouble" , it is some sort of Air plane chess. 
+
+to mimic the game, i created a 9x9 grid, one button for each grid cell. 
+
+4 players will play the game together. 
+
+There are dice button, home button, route button. 
+
+	Client.java - this contains the main function to start the game. 
+	GButton.java - this is an extension to the JButton in swing, it has the additional logic built in to help the game. 
+	Layout.java - the central piece of the game to initialize everything. 
+	Player.java - This has the player information, and to get the next player info 
+
+
+Next step: 
+	To handle the complete logic to finish the game. 
+	Right now the home button can start 4 letters. Click the dice button in the middle will give a number, but this number is not used yet. 
+	Route for each player is pre-determined, but not tied with the number yet. 
+	
+	 
